@@ -141,13 +141,13 @@ _Below is an example of how you can instruct your audience on installing and set
 3. Install NPM packages
    ```sh
    npm install
-4. Set the path of the myreactdev file
+4. Set the path of the myreactdev file (myreactdev)
    ```sh
    use 'cd' to change the path in terminal
 5. Run the React file
    ```sh
    npm start
-6. Parallel run the flask file in new terminal
+6. Parallel run the flask file in new terminal (Login\flaskreact)
    ```sh
    use 'cd' to change the path in terminal
 7. Run the flask file
