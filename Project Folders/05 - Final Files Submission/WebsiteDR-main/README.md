@@ -132,60 +132,28 @@ This is an example of how to list things you need to use the software and how to
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/SuryaDeepakBoyina/WebsiteDR
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
-4. Set the path of the myreactdev file (myreactdev)
+3. Set the path of the myreactdev file (myreactdev)
    ```sh
    use 'cd' to change the path in terminal
-5. Run the React file
+4. Run the React file
    ```sh
    npm start
-6. Parallel run the flask file in new terminal (Login\flaskreact)
+5. Parallel run the flask file in new terminal (Login\flaskreact)
    ```sh
    use 'cd' to change the path in terminal
-7. Run the flask file
+6. Run the flask file
    ```sh
    Python Filename.py or flask run
    
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -216,8 +184,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/SuryaDeepakBoyina/WebsiteDR](https://github.com/SuryaDeepakBoyina/WebsiteDR)
 
