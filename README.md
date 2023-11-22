@@ -1,4 +1,4 @@
-# Diabetic Retinopathy Web Application
+# Diabetic Retinopathy Severity Detection Using Deep Learning Models
 Webapp for classification of Diabetic Retinopathy from retinal images using flask and keras.
 <p align="center">
   <img src="https://github.com/snsten/Diabetic-Retinopathy-WebApp/blob/master/data/prediction.jpg">
